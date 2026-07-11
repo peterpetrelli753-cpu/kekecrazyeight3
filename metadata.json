@@ -1,0 +1,6 @@
+{
+  "name": "Crazy Eights",
+  "description": "A classic, fully interactive Crazy Eights card game featuring smooth animations, responsive layout, smart AI opponents, score tracking, and custom rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
